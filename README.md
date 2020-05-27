@@ -1,6 +1,6 @@
 # helloworld_grails4
 
-This is a sample project made in Grails 4 managing just one domain class, Authors (named Autore in the project). It exposes a web GUI and also a rest API.
+This is a sample project made in Grails 4 managing just one domain class, Authors (named Autore in the project). It exposes a web GUI and also a rest API listening on localhost:8080/gestioneautore/api/autore.
 
 ## Getting Started
 
